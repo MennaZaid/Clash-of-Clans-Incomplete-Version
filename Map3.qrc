@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/map3">
+        <file>ice land.png</file>
+        <file>IceCastle.png</file>
+        <file>IceFence.png</file>
+        <file>IceTower.png</file>
+    </qresource>
+</RCC>

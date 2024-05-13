@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/photos">
+        <file>enemy.png</file>
+        <file>playe.png.webp</file>
+        <file>healthmarker.png</file>
+        <file>citizen.png</file>
+    </qresource>
+</RCC>

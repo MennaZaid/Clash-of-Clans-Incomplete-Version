@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/map1">
+        <file>green land.jpg</file>
+        <file>Castle.png</file>
+        <file>fence_00.png</file>
+        <file>fence_01.png</file>
+        <file>fence_02.png</file>
+        <file>cannon.jpeg</file>
+        <file>cannon_ball.jpeg</file>
+        <file>bullet.png</file>
+        <file>canon.png</file>
+    </qresource>
+</RCC>
